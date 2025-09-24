@@ -50,7 +50,7 @@
 ### ⚡ **Início Rápido**
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/enhanced-video-transcriber.git
+git clone https://github.com/kasamex/enhanced-video-transcriber.git
 cd enhanced-video-transcriber
 
 # Execute o script (instala dependências automaticamente)
