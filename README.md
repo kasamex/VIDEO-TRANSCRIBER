@@ -50,11 +50,11 @@
 ### ⚡ **Início Rápido**
 ```bash
 # Clone o repositório
-git clone https://github.com/kasamex/enhanced-video-transcriber.git
-cd enhanced-video-transcriber
+git clone https://github.com/kasamex/VIDEO-TRANSCRIBER.git
+cd VIDEO-TRANSCRIBER
 
 # Execute o script (instala dependências automaticamente)
-python video_transcriber.py
+python video.py
 ```
 
 > 🎉 **É isso!** O sistema instala todas as dependências automaticamente na primeira execução.
@@ -102,7 +102,7 @@ enhanced-video-transcriber/
 ├── 📁 transcriptions/      # Resultados das transcrições
 ├── 📁 live_recordings/     # Gravações do microfone
 ├── 📁 video_tools/         # FFmpeg e ferramentas
-└── 📄 video_transcriber.py # Script principal
+└── 📄 video.py             # Script principal
 ```
 
 ---
